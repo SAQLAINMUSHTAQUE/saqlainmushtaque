@@ -39,10 +39,9 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/saqlainmushtaque](https://linkedin.com/in/saqlainmushtaque)  
-- X (Twitter): [@saqlainsays](https://x.com/saqlainsays)  
-- Portfolio (soon): [saqlain.tech](https://saqlain.tech)  
-- Email: `mushtaque.saqlain@gmail.com`
+- LinkedIn: [linkedin.com/in/saqlainmushtaque](https://www.linkedin.com/in/saqlain-mushtaque-0656562a1/)  
+- Portfolio (soon): 
+- Email: `saqlainmushtaque.001@gmail.com`
 
 ---
 
