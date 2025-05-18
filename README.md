@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Saqlain Mushtaque
 
-**Engineer | Entrepreneur | Innovator | Visionary**  
-*Founder @ SAQLAIN Industries & The Hindustan Bakers*  
+**Engineer | Entrepreneur | Innovator | Visionary**   
 🚀 Building solutions that save **time**, **money**, and **energy**.
 
 ---
