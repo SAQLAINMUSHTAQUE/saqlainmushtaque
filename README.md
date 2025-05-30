@@ -22,13 +22,6 @@
 
 ---
 
-### 📌 Current Projects
-- **SAQLAIN Industries** — Startup ecosystem for product innovation
-- **The Hindustan Bakers** — D2C + wholesale bakery brand
-- **CustomPrint Brand** — Personalized merchandise business
-
----
-
 ### 🧠 My Interests
 - Startup culture & brand building  
 - Software + hardware synergy  
